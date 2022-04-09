@@ -6,8 +6,4 @@ When run this program guides an investigator through a decision tree to identify
 <li>Single page applicaion</li>
 <li>Ask Questions one at a time but tracks progress</li>
 <li>When action is recommended it is obvious</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
 </ul>
